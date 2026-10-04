@@ -9,9 +9,9 @@ TOKEN = os.getenv("GITHUB_TOKEN")
 
 if not TOKEN:
     raise SystemExit("GITHUB_TOKEN is required.")
-
 HEADERS = {
-    '<text x="82" y="95" text-anchor="middle" font-family="Arial" font-size="30" font-weight="700" fill="#67e8f9">RY</text>',
+    "Authorization": f"bearer {TOKEN}",
+    "Content-Type": "application/json",
 }
 
 def graphql(query, variables):
@@ -23,8 +23,10 @@ def graphql(query, variables):
     )
     r.raise_for_status()
     data = r.json()
+
     if data.get("errors"):
         raise RuntimeError(data["errors"])
+
     return data["data"]
 
 def esc(value):
