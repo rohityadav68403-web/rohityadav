@@ -1,0 +1,54 @@
+<svg width="700" height="390" viewBox="0 0 700 390" xmlns="http://www.w3.org/2000/svg">
+<rect width="700" height="390" rx="14" fill="#061526" stroke="#23496d" stroke-width="2"/>
+<text x="40" y="52" fill="#f5f7fa" font-size="25" font-family="Arial" font-weight="bold">Repository Activity</text>
+<text x="575" y="52" fill="#9fb8d6" font-size="15" font-family="Arial" font-weight="normal">● Commits</text>
+<line x1="70" y1="95" x2="660" y2="95" stroke="#23496d"/>
+<line x1="70" y1="145" x2="660" y2="145" stroke="#23496d"/>
+<line x1="70" y1="195" x2="660" y2="195" stroke="#23496d"/>
+<line x1="70" y1="245" x2="660" y2="245" stroke="#23496d"/>
+<line x1="70" y1="295" x2="660" y2="295" stroke="#23496d"/>
+<text x="38" y="100" fill="#dbe7f5" font-size="13" font-family="Arial" font-weight="normal">266</text>
+<text x="38" y="150" fill="#dbe7f5" font-size="13" font-family="Arial" font-weight="normal">200</text>
+<text x="38" y="200" fill="#dbe7f5" font-size="13" font-family="Arial" font-weight="normal">133</text>
+<text x="38" y="250" fill="#dbe7f5" font-size="13" font-family="Arial" font-weight="normal">66</text>
+<text x="38" y="300" fill="#dbe7f5" font-size="13" font-family="Arial" font-weight="normal">0</text>
+<rect x="79.2" y="273.9" width="27" height="21.1" rx="3" fill="#4d7cff"/>
+<text x="84.1923076923077" y="266.94736842105266" fill="#f5f7fa" font-size="12" font-family="Arial" font-weight="bold">28</text>
+<text x="79.1923076923077" y="325" fill="#dbe7f5" font-size="13" font-family="Arial" font-weight="normal">Oct</text>
+<rect x="124.6" y="287.5" width="27" height="7.5" rx="3" fill="#4d7cff"/>
+<text x="129.5769230769231" y="280.4812030075188" fill="#f5f7fa" font-size="12" font-family="Arial" font-weight="bold">10</text>
+<text x="124.57692307692308" y="325" fill="#dbe7f5" font-size="13" font-family="Arial" font-weight="normal">Nov</text>
+<rect x="170.0" y="286.0" width="27" height="9.0" rx="3" fill="#4d7cff"/>
+<text x="174.96153846153845" y="278.97744360902254" fill="#f5f7fa" font-size="12" font-family="Arial" font-weight="bold">12</text>
+<text x="169.96153846153845" y="325" fill="#dbe7f5" font-size="13" font-family="Arial" font-weight="normal">Dec</text>
+<rect x="215.3" y="289.7" width="27" height="5.3" rx="3" fill="#4d7cff"/>
+<text x="220.34615384615387" y="282.7368421052632" fill="#f5f7fa" font-size="12" font-family="Arial" font-weight="bold">7</text>
+<text x="215.34615384615387" y="325" fill="#dbe7f5" font-size="13" font-family="Arial" font-weight="normal">Jan</text>
+<rect x="260.7" y="273.2" width="27" height="21.8" rx="3" fill="#4d7cff"/>
+<text x="265.7307692307692" y="266.1954887218045" fill="#f5f7fa" font-size="12" font-family="Arial" font-weight="bold">29</text>
+<text x="260.7307692307692" y="325" fill="#dbe7f5" font-size="13" font-family="Arial" font-weight="normal">Feb</text>
+<rect x="306.1" y="248.4" width="27" height="46.6" rx="3" fill="#4d7cff"/>
+<text x="311.1153846153846" y="241.38345864661653" fill="#f5f7fa" font-size="12" font-family="Arial" font-weight="bold">62</text>
+<text x="306.1153846153846" y="325" fill="#dbe7f5" font-size="13" font-family="Arial" font-weight="normal">Mar</text>
+<rect x="351.5" y="192.7" width="27" height="102.3" rx="3" fill="#4d7cff"/>
+<text x="356.5" y="185.74436090225566" fill="#f5f7fa" font-size="12" font-family="Arial" font-weight="bold">136</text>
+<text x="351.5" y="325" fill="#dbe7f5" font-size="13" font-family="Arial" font-weight="normal">Apr</text>
+<rect x="396.9" y="95.0" width="27" height="200.0" rx="3" fill="#4d7cff"/>
+<text x="401.8846153846154" y="88.0" fill="#f5f7fa" font-size="12" font-family="Arial" font-weight="bold">266</text>
+<text x="396.8846153846154" y="325" fill="#dbe7f5" font-size="13" font-family="Arial" font-weight="normal">May</text>
+<rect x="442.3" y="203.3" width="27" height="91.7" rx="3" fill="#4d7cff"/>
+<text x="447.2692307692308" y="196.27067669172934" fill="#f5f7fa" font-size="12" font-family="Arial" font-weight="bold">122</text>
+<text x="442.2692307692308" y="325" fill="#dbe7f5" font-size="13" font-family="Arial" font-weight="normal">Jun</text>
+<rect x="487.7" y="211.5" width="27" height="83.5" rx="3" fill="#4d7cff"/>
+<text x="492.65384615384613" y="204.54135338345864" fill="#f5f7fa" font-size="12" font-family="Arial" font-weight="bold">111</text>
+<text x="487.65384615384613" y="325" fill="#dbe7f5" font-size="13" font-family="Arial" font-weight="normal">Jul</text>
+<rect x="533.0" y="239.4" width="27" height="55.6" rx="3" fill="#4d7cff"/>
+<text x="538.0384615384615" y="232.3609022556391" fill="#f5f7fa" font-size="12" font-family="Arial" font-weight="bold">74</text>
+<text x="533.0384615384615" y="325" fill="#dbe7f5" font-size="13" font-family="Arial" font-weight="normal">Aug</text>
+<rect x="578.4" y="204.8" width="27" height="90.2" rx="3" fill="#4d7cff"/>
+<text x="583.423076923077" y="197.77443609022555" fill="#f5f7fa" font-size="12" font-family="Arial" font-weight="bold">120</text>
+<text x="578.423076923077" y="325" fill="#dbe7f5" font-size="13" font-family="Arial" font-weight="normal">Sep</text>
+<rect x="623.8" y="273.9" width="27" height="21.1" rx="3" fill="#4d7cff"/>
+<text x="628.8076923076924" y="266.94736842105266" fill="#f5f7fa" font-size="12" font-family="Arial" font-weight="bold">28</text>
+<text x="623.8076923076924" y="325" fill="#dbe7f5" font-size="13" font-family="Arial" font-weight="normal">Oct</text>
+</svg>
