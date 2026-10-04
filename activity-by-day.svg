@@ -29,7 +29,7 @@
 <rect x="506.1" y="95.0" width="55" height="200.0" rx="4" fill="#19bce8"/>
 <text x="524.0714285714287" y="85.0" fill="#f5f7fa" font-size="14" font-family="Arial" font-weight="bold">151</text>
 <text x="518.0714285714287" y="325" fill="#dbe7f5" font-size="14" font-family="Arial" font-weight="normal">Sat</text>
-<rect x="590.4" y="122.8" width="55" height="172.2" rx="4" fill="#e843a8"/>
-<text x="608.3571428571429" y="112.81456953642385" fill="#f5f7fa" font-size="14" font-family="Arial" font-weight="bold">130</text>
+<rect x="590.4" y="121.5" width="55" height="173.5" rx="4" fill="#e843a8"/>
+<text x="608.3571428571429" y="111.49006622516558" fill="#f5f7fa" font-size="14" font-family="Arial" font-weight="bold">131</text>
 <text x="602.3571428571429" y="325" fill="#dbe7f5" font-size="14" font-family="Arial" font-weight="normal">Sun</text>
 </svg>
