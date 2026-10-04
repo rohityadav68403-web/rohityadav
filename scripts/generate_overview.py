@@ -165,8 +165,8 @@ svg = [f'''<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" view
 # Header
 svg += [
     '<circle cx="82" cy="83" r="50" fill="#071d31" stroke="url(#cyan)" stroke-width="5"/>',
-    '<text x="82" y="95" text-anchor="middle" font-family="Arial" font-size="30" font-weight="700" fill="#67e8f9">DC</text>',
-    ''<text x="155" y="70" class="title">👋 Hi, I&apos;m Rohit Yadav</text>',
+    '<text x="82" y="95" text-anchor="middle" font-family="Arial" font-size="30" font-weight="700" fill="#67e8f9">RY</text>',
+    '<text x="155" y="70" class="title">👋 Hi, I&apos;m Rohit Yadav</text>',
     '<text x="155" y="101" class="sub">BCA Student  |  Aspiring Web Developer  |  Tech Enthusiast</text>',
     '<text x="155" y="130" class="small">Building projects • Learning new technologies • Creating a better tomorrow</text>',
     f'<text x="1020" y="73" text-anchor="end" class="small">Followers</text><text x="1020" y="100" text-anchor="end" class="value">{followers}</text>',
