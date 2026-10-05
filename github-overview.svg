@@ -40,11 +40,11 @@
 <rect x="460" y="220" width="190" height="105" rx="16" class="card"/>
 <text x="478" y="249" font-size="20">💻</text>
 <text x="478" y="274" class="label">Commits (1Y)</text>
-<text x="478" y="307" class="value">22</text>
+<text x="478" y="307" class="value">24</text>
 <rect x="670" y="220" width="190" height="105" rx="16" class="card"/>
 <text x="688" y="249" font-size="20">🟩</text>
 <text x="688" y="274" class="label">Contributions (1Y)</text>
-<text x="688" y="307" class="value">26</text>
+<text x="688" y="307" class="value">28</text>
 <rect x="880" y="220" width="190" height="105" rx="16" class="card"/>
 <text x="898" y="249" font-size="20">📦</text>
 <text x="898" y="274" class="label">Repositories</text>
@@ -409,6 +409,7 @@
 <rect x="898" y="495" width="12" height="12" rx="3" fill="#064e3b"/>
 <rect x="898" y="512" width="12" height="12" rx="3" fill="#0b2233"/>
 <rect x="915" y="410" width="12" height="12" rx="3" fill="#22e6a2"/>
+<rect x="915" y="427" width="12" height="12" rx="3" fill="#0b2233"/>
 <text x="48" y="530" class="small">Less</text>
 <rect x="86" y="520" width="12" height="12" rx="3" fill="#0b2233"/>
 <rect x="104" y="520" width="12" height="12" rx="3" fill="#064e3b"/>
@@ -420,17 +421,17 @@
 <line x1="40" y1="597" x2="1060" y2="597" stroke="#123b58"/>
 <rect x="40" y="615" width="500" height="245" rx="18" class="card"/>
 <text x="62" y="650" class="h2">📚 Most Used Languages</text>
-<circle cx="155" cy="750" r="72" fill="none" stroke="#3776AB" stroke-width="28" stroke-dasharray="391.78 60.61" stroke-dashoffset="0.00" transform="rotate(-90 155 750)"/>
-<circle cx="155" cy="750" r="72" fill="none" stroke="#ED8B00" stroke-width="28" stroke-dasharray="60.61 391.78" stroke-dashoffset="-391.78" transform="rotate(-90 155 750)"/>
+<circle cx="155" cy="750" r="72" fill="none" stroke="#3776AB" stroke-width="28" stroke-dasharray="386.93 65.46" stroke-dashoffset="0.00" transform="rotate(-90 155 750)"/>
+<circle cx="155" cy="750" r="72" fill="none" stroke="#ED8B00" stroke-width="28" stroke-dasharray="65.46 386.93" stroke-dashoffset="-386.93" transform="rotate(-90 155 750)"/>
 <circle cx="155" cy="750" r="42" fill="#031426"/>
 <text x="155" y="747" text-anchor="middle" class="small">Top</text>
 <text x="155" y="764" text-anchor="middle" class="small">Languages</text>
 <circle cx="258" cy="677" r="6" fill="#3776AB"/>
 <text x="272" y="682" class="small">Python</text>
-<text x="470" y="682" text-anchor="end" class="small">86.6%</text>
+<text x="470" y="682" text-anchor="end" class="small">85.5%</text>
 <circle cx="258" cy="703" r="6" fill="#ED8B00"/>
 <text x="272" y="708" class="small">Java</text>
-<text x="470" y="708" text-anchor="end" class="small">13.4%</text>
+<text x="470" y="708" text-anchor="end" class="small">14.5%</text>
 <rect x="560" y="615" width="500" height="245" rx="18" class="card"/>
 <text x="582" y="650" class="h2">🔥 Coding Streak</text>
 <text x="582" y="690" class="label">Current Streak</text>
@@ -460,8 +461,8 @@
 <text x="823" y="990" class="small">PostgreSQL • SQLite • SQL</text>
 <text x="40" y="1070" class="h2">🛠️ Live GitHub Metrics</text>
 <line x1="40" y1="1082" x2="1060" y2="1082" stroke="#123b58"/>
-<text x="45" y="1110" class="small">Contributions: 26</text>
-<text x="250" y="1110" class="small">Commits: 22</text>
+<text x="45" y="1110" class="small">Contributions: 28</text>
+<text x="250" y="1110" class="small">Commits: 24</text>
 <text x="455" y="1110" class="small">Repositories: 3</text>
 <text x="660" y="1110" class="small">Followers: 0</text>
 <text x="865" y="1110" class="small">Stars: 0</text>
